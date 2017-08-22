@@ -1,3 +1,1 @@
-const logger = require('./logger')
-logger.info('Usando o padrao CommonJS!')
-
+const duvidaCruel = require('./duvidaCruel');
